@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily Joke"
+  short_description: "Generate a tasteful daily joke on request"
+  default_prompt: "Use $joke-skill to write a short, original, family-safe joke for today."
